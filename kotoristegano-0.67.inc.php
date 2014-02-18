@@ -401,7 +401,7 @@ class KotoriStegano {
 			
 			$imagename		string					Filename (incl. path) of input image
 			$verbose		0=false (default), 1=true		Direct output of extracted information
-			$compress		0=false (default), 1=true		Compress input text
+			$compress		0=false (default), 1=true		Decompress extracted information
 			$decrypt		0=false (default), 1=true		AES-256 decryption
 			$passphrase		string					Decryption key
 			$vertical		0=false (default), 1=true		If true, decode steganogram scanning from top to bottom, left to right (columnwise).
