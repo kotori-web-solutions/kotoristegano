@@ -24,6 +24,9 @@ Verwendung dieser Steganographieklasse entstehen. Mit Download und Anwendung des
 mit diesen Bedingungen ausdrücklich als einverstanden.
 
 @author     Maren Arnhold <maren@kotori.de>
+
 @copyright  (c) 2012 kotori web solutions Maren Arnhold, Berlin, Germany - http://www.kotori.de
+
 @license    http://opensource.org/licenses/osl-3.0.php  Open Software License 3.0
+
 @version    v0.67 - 19-Oct-2012
